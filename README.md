@@ -1,28 +1,68 @@
-# <TMPNAME> – TMP‑Raum · iki1uc
+# tmpPQ – PQ‑Modus‑Raum
 
-## Zweck
-Dieser TMP‑Raum ist Teil der 16‑TMP‑Matrix des iki1uc‑Universums.
-Er dient als adressierbarer Speicherraum für HDF‑Strukturen, Pulse‑Daten,
-TMP‑Pipelines und Omega‑Verbindungen.
+## 1. Zweck
+tmpPQ ist der PQ‑Modus‑Raum im Continuum.  
+Er verbindet die RE‑Achsen mit dem TMP‑System und erzeugt temporäre Identitäten,
+die für Berechnung, Wirkung und Projektion genutzt werden.
 
-## Eigenschaften
-- Eigenständiger TMP‑Raum
-- Voll adressierbar
-- HDF‑fähig
-- Pipeline‑kompatibel
-- Omega‑kompatibel (tmpOMG = TMPΩ)
+Während rePP projiziert, eOMG verstärkt und reS codiert,
+öffnet tmpPQ den PQ‑Modus: die temporäre Berechnungs‑Ebene.
 
-## Struktur
-- index.html → Anzeige
-- TMP.core.js → Logik
-- ID_TMP.js → Identität
-- TMP_DASH.js → Dashboard
+---
 
-## Zugehörigkeit
-Dieser Raum gehört zur TMP‑Matrix:
-16 Räume → PP + PQ + USB + OMG + HDF Albertus inside.
+## 2. Die 6‑Werte‑Norm (Vector)
 
-## Links
-- [TMPΩ](ca://s?q=Erkläre_TMPOmega)
-- [TMP_Pipeline](ca://s?q=TMP_Pipeline_erweitern)
-- [TMP_Räume](ca://s?q=TMP_Räume_übersicht)
+1. Gravitation (G) – Zentrum  
+2. Magnetismus (M) – Richtung  
+3. Anziehung (A) – Wertfluss  
+4. Raumfluss (R) – Continuum  
+5. Zustand (Z) – Phase  
+6. Quelle (Q) – Ursprung  
+
+Vector‑Formel:
+
+(G, M, A, R, Z, Q)
+
+---
+
+## 3. Die Klammer (Verständnis für alle)
+
+- Shogun = Raum  
+- Schach = Regel  
+- Skat = Mensch  
+
+Damit versteht jeder die Achse.
+
+---
+
+## 4. TMP‑Module dieses Raumes
+
+- **ID_TMP.js** – erzeugt temporäre Identitäten  
+- **ID_UNI.js** – universale Identität  
+- **TMP.core.js** – Kern des TMP‑Systems  
+- **TMP_DASH.js** – Dashboard‑Modul  
+
+Diese Module wirken nur innerhalb dieses Raumes.
+
+---
+
+## 5. CSV‑Achsen
+
+- achse-bedeutung-8.csv  
+- achse-funktion-3.csv  
+- achse-modul-12.csv  
+- achse-quelle-12.csv  
+- datei-zweck-14.csv  
+- hebel-wirkung-auf-kapitalisierung-7.csv  
+- score-formel-5.csv  
+- zustand-bedeutung-4.csv  
+
+Jede CSV ist eine Schicht des Vektors.
+
+---
+
+## 6. Zusammenfassung
+tmpPQ ist der PQ‑Modus‑Raum.  
+Er verbindet RE‑Achsen mit TMP‑Identitäten und erzeugt temporäre Wirkung.
+
+Er ist rein, klar, stabil und vektor‑gemäß.
